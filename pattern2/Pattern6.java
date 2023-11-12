@@ -1,3 +1,5 @@
+// butterfly pattern print
+
 package pattern2;
 
 public class Pattern6 {
